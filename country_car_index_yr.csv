@@ -1,0 +1,22 @@
+country,drives_right,cars_per_cap,year
+United States,TRUE,809,2009
+Australia,FALSE,731,2009
+Japan,FALSE,588,2009
+India,FALSE,18,2009
+Russia,TRUE,200,2009
+Morocco,TRUE,70,2009
+Egypt,TRUE,45,2009
+United States,TRUE,920,2010
+Australia,FALSE,701,2010
+Japan,FALSE,509,2010
+India,FALSE,30,2010
+Russia,TRUE,190,2010
+Morocco,TRUE,56,2010
+Egypt,TRUE,40,2010
+United States,TRUE,777,2011
+Australia,FALSE,800,2011
+Japan,FALSE,30,2011
+India,FALSE,201,2011
+Russia,TRUE,40,2011
+Morocco,TRUE,50,2011
+Egypt,TRUE,45,2011
